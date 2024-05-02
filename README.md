@@ -6,14 +6,15 @@ In this project Eclipse-Fusion explores the number of UFO sightings in Texas ove
 
 ## Repository File Path Key
 P1-EclipseFusion
-> alien_pandas.ipynb --- 
-> alien_pandas.ipynb --- 
+> alien_pandas.ipynb --- used to generate graphs to answer questions in slides 4-8
+> alien_pandas.ipynb --- used to generate maps in slide 9
 > (hidden) Untitled.py --- api key
 >>> Resources
->>> > scrubbed.csv ---
+>>> > scrubbed.csv --- dataset downloaded from kaggle (https://www.kaggle.com/datasets/NUFORC/ufo-sightings)
+>>> > (we used the scrubbed file which omitted null lat/long and added columns for year, month, and season)
 
 ## Visuals
-Link to presentation ()
+Link to presentation (https://docs.google.com/presentation/d/1iDUhPnIoRE4Rfbpr2148rRJZ5Cq2iVKnm8EHgjAtBBo/edit?usp=sharing)
 
 ## Authors and acknowledgment
 Authored by Github users:
