@@ -7,11 +7,11 @@ In this project Eclipse-Fusion explores the number of UFO sightings in Texas ove
 ## Repository File Path Key
 P1-EclipseFusion
 
-> alien_pandas.ipynb --- used to generate graphs to answer questions in slides 4-8
+> alien_pandas.ipynb --- used to generate graphs 
 
-> alien_pandas.ipynb --- used to generate maps in slide 9
+> alien_pandas.ipynb --- used to generate maps (airports use geo api)
 
-> (hidden) Untitled.py --- api key
+> Untitled.py --- api key
 
 >>> Resources
 
@@ -20,7 +20,7 @@ P1-EclipseFusion
 >>> > (we used the scrubbed file which omitted null lat/long and added columns for year, month, and season)
 
 ## Visuals
-Link to presentation (https://docs.google.com/presentation/d/1iDUhPnIoRE4Rfbpr2148rRJZ5Cq2iVKnm8EHgjAtBBo/edit?usp=sharing)
+Link to presentation ([https://docs.google.com/presentation/d/1iDUhPnIoRE4Rfbpr2148rRJZ5Cq2iVKnm8EHgjAtBBo/edit?usp=sharing](https://www.canva.com/design/DAGECbHrFTc/dm3TjVXUCiVzwlqJ1L3Vqg/edit?utm_content=DA[…]m_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
 
 ## Authors and acknowledgment
 Authored by Github users:
